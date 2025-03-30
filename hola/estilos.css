@@ -1,0 +1,43 @@
+
+.fondo{
+    background-image: url("./img/225a28608c5edda0c7bba2dff6cd4a06.jpg");
+    background-position: top center;
+    background-size:auto;
+    background-attachment:fixed;
+  padding: 10%;
+  color: white;
+
+}
+.menu{
+    background-color: #fdd2e8;
+    height: 100px;
+     max-height: 150px;
+}
+ .fuente  {
+    font-family: "Pacifico", serif;
+    font-weight: 400;
+    font-style: normal;
+  
+  }
+
+  .titulo{
+    font-size: 150px;
+  }
+  .container{
+
+    
+    background-image: url("./img/47cef2b91025c8fb99f2ec3cc5fced8a.jpg");
+
+    color: rgb(238, 93, 161);
+
+
+  
+ 
+  }
+  .colorfooter{
+    background-color: #ffd6ea;
+  }
+  .boton{
+    background-color: #fdd2e8;
+
+  }
